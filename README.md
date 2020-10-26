@@ -205,4 +205,4 @@ and change _xit_ to _it_ in the beginning of the second test. Run `learn` to see
 that the test is now failing rather than listed as pending, and use the test
 message to create a new method, `age_appropriate_birthday`.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hash-iteration' title='Iterating Over Hashes With #each'>Iterating Over Hashes With #each</a> on Learn.co and start learning to code for free.</p>
+
